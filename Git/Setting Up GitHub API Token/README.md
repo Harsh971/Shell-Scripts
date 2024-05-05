@@ -14,6 +14,7 @@
 ### Step 2 : Navigate to Developer Settings on Left Panel and select Personal Access Tokens
 <img src="https://github.com/Harsh971/Shell-Scripts/blob/main/Git/Setting%20Up%20GitHub%20API%20Token/image2.png">
 <img src="https://github.com/Harsh971/Shell-Scripts/blob/main/Git/Setting%20Up%20GitHub%20API%20Token/image3.png">
+
 ### Step 3 : Click on Generate New Tokens
 <img src="https://github.com/Harsh971/Shell-Scripts/blob/main/Git/Setting%20Up%20GitHub%20API%20Token/image4.png">
 
