@@ -44,8 +44,8 @@ aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId, In
 So, this line of shell script fetches information about EC2 instances in an AWS account and displays it in a table format, including the Instance ID, Instance Type, State, Public IP Address, and Private IP Address of each instance.
 
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/List%20EC@%20Instances/image1.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/List%20EC2%20Instances/image1.png">
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/List%20EC@%20Instances/image2.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/List%20EC2%20Instances/image2.png">
 
 
