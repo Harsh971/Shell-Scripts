@@ -17,13 +17,13 @@
 
 ## Output : 
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%EC2%20Instance/image1.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%20EC2%20Instance/image1.png">
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%EC2%20Instance/image2.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%20EC2%20Instance/image2.png">
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%EC2%20Instance/image3.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%20EC2%20Instance/image3.png">
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%EC2%20Instance/image4.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%20EC2%20Instance/image4.png">
 
-<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%EC2%20Instance/image5.png">
+<img src="https://github.com/Harsh971/Shell-Scripts/blob/main/AWS/Change%20Status%20of%20EC2%20Instance/image5.png">
 
